@@ -1,4 +1,6 @@
 # SwiftUI Shopping List App
+**Creation date: 2022-03-24**
+
 My first iOS project - Shopping List App made with SwiftUI and .NET Web API
 
 This is a project for people doing shopping together. 
